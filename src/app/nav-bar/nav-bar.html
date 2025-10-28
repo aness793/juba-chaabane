@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="logo">
+        <h1>Juba chaabane</h1>
+    </div>
+    <div class="navigation">
+        <a   (click)=path() [class.active]="selected()=='#bio' || selected()==''" href="#bio" >About</a>
+        <a  (click)=path() [class.active]="selected()=='#experiences'"  href="#experiences" >Experience</a>
+        <a  (click)=path() [class.active]="selected()=='#Projects'"  href="#Projects" >Projects</a>
+        <a  (click)=path() [class.active]="selected()=='#certs'" href="#certs" >Certefications</a>
+        <a  (click)=path() [class.active]="selected()=='#volunteering'"  href="#volunteering" >volunteering</a>
+    </div>
+    <div class="cv">
+        <a href="Juba_Chaabane_CV.pdf" download>Download my cv</a>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+<div class="container">
+    <span>
+        <p>
+            {{ isExpanded ? text : (text | slice:0:maxLength) }}
+            <span *ngIf="!isExpanded && text.length > maxLength">...</span>
+        </p>
+        <span *ngIf="text.length > maxLength" class="toggle-btn">
+        
+            {{ isExpanded ? 'Read Less' : 'Read More' }}
+        </span>
+    </span>
+</div>
