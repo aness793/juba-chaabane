@@ -94,9 +94,10 @@ Au sein de la plateforme tunisienne de science participative Naturadex, j’inte
   projects = [
     {
       title: `PINA`,
-      paragraph: `Tout a commencé par une question simple, mais lourde de sens : *comment préserver la biodiversité marine si l’information est éparpillée, incomplète, parfois même inaccessible ?*
+      paragraph: `Tout a commencé par une question simple, mais lourde de sens : Comment préserver la biodiversité marine si l’information est éparpillée, incomplète, parfois même inaccessible ?
 De cette réflexion est née l’idée du projet PINA – Portail d’Information sur la Nature Marine Algérienne.
-L’ambition était claire : créer un *lieu centralisé* où chercheurs, étudiants, gestionnaires et passionnés pouvaient accéder à une base de données fiable sur les espèces marines de notre littoral. Une plateforme à la fois *interactive, intelligente et ouverte*, permettant de combler un vide scientifique et de renforcer la gestion durable des écosystèmes.Aujourd’hui, PINA avance pas à pas, pour devenir bien plus qu’une base de données, mais un outil dynamique qui met la science au service de la conservation.`,
+Notre ambition, moi et Ghalmi Rachida était claire : créer un lieu centralisé où chercheurs, étudiants, gestionnaires et passionnés pouvaient accéder à une base de données fiable sur les espèces marines de notre littoral. 
+Aujourd’hui, PINA avance pas à pas, pour devenir bien plus qu’une base de données, mais un outil dynamique qui met la science au service de la conservation.`,
       image:`pina.jpg`
     },
     {
