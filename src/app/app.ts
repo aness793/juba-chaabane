@@ -203,9 +203,9 @@ Evolunteering = [
 Eprojects = [
   {
     title: `PINA`,
-    paragraph: `It all started with a simple yet meaningful question: *how can we preserve marine biodiversity if information is scattered, incomplete, and sometimes inaccessible?*
+    paragraph: `It all started with a simple yet meaningful question: how can we preserve marine biodiversity if information is scattered, incomplete, and sometimes inaccessible?
 From this reflection was born the idea of the PINA project – Information Portal on Algerian Marine Nature.
-The ambition was clear: to create a *centralized place* where researchers, students, managers, and enthusiasts could access a reliable database on the marine species of our coastline. A platform that is *interactive, intelligent, and open*, aiming to fill a scientific gap and strengthen sustainable ecosystem management. Today, PINA is progressing step by step to become more than just a database, but a dynamic tool that puts science at the service of conservation.`,
+The ambition was clear: to create a centralized place where researchers, students, managers, and enthusiasts could access a reliable database on the marine species of our coastline. A platform that is interactive, intelligent, and open*, aiming to fill a scientific gap and strengthen sustainable ecosystem management. Today, PINA is progressing step by step to become more than just a database, but a dynamic tool that puts science at the service of conservation.`,
     image: `pina.jpg`
   },
   {
